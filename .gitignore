@@ -1,0 +1,50 @@
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+.streamlit/secrets.toml
+*.pem
+*.key
+credentials*.json
+secrets*.json
+.secrets/
+secrets/
+*.secret
+*.secrets
+
+# Python environments and caches
+.venv/
+venv/
+env/
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# IDE and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Logs and local generated output
+*.log
+*.tmp
+~$*
+output/
+outputs/
+export/
+exports/
+*.csv
+*.xls
+*.xlsx
+crawl_result*.json
+analysis_result*.json
+
+# Legacy local-only migration source
+AA查产品有网址智谱现在用的.py
