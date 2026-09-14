@@ -1,5 +1,7 @@
 # AI Company Research Assistant
 
+🌐 [Live Demo](https://ai-company-research-assistant-kvezftfmjlvpp2gxf2nkbi.streamlit.app)
+
 ## Project Overview
 
 AI Company Research Assistant is a Streamlit application that turns a company
